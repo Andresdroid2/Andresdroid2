@@ -26,17 +26,6 @@ I am a **mobile application developer** with a strong desire to learn, grow, and
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andresdroid2&theme=github_dark)
 
- </div>
- 
- ### ⏱ Streak Stats
- 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Andresdroid2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Andresdroid2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andresdroid2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
 
 ---
  
