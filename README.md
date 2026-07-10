@@ -15,11 +15,8 @@ I am a **mobile application developer** with a strong desire to learn, grow, and
 
 
  ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) 
- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter) 
- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart) 
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase) 
- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) 
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
 
 </div>
