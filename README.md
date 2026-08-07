@@ -25,7 +25,7 @@ I am a **mobile application developer** with a strong desire to learn, grow, and
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br/>FastAPI</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="40"/><br/>Spring</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="40"/><br/>Spring Boot</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/>Next.js</td>
   </tr>
