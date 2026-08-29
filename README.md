@@ -1,6 +1,6 @@
-<h1 align = "center">Hi, I'm Andresdroid2 👋</h1>
+<h1 align = "center">Hi, I'm CodeDroid 👋</h1>
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:F54927,100:B027F5&height=220&text=@Andresdoid2&fontSize=60&fontColor=ffffff&desc=Mobile%20Developer&descSize=20&descAlignY=75)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:F54927,100:B027F5&height=220&text=@CodeDroid&fontSize=60&fontColor=ffffff&desc=Mobile%20Developer&descSize=20&descAlignY=75)
 ## About Me
 
 I am a **mobile application developer** with a strong desire to learn, grow, and continue expanding my skills in this vast universe of development.
